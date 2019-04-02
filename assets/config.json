@@ -1,5 +1,5 @@
 {
-  "basePath": "http://localhost:2121/",
+  "basePath": "http://holiday.aforehand.com.ua:90/",
   "objects": "api/objects",
   "images": "api/images"
 }
